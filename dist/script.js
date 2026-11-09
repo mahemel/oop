@@ -1,2 +1,2 @@
 // import "./encapsulation.js";
-import "./polymorphism.js";
+import "./minidom.js";
