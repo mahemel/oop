@@ -24,5 +24,5 @@ class Employee {
 }
 const employee = new Employee("Mahbub", 220000);
 const employee2 = new Employee("Mizan", 120000);
-console.log(employee instanceof Employee, employee2);
+console.log(employee.baseSalary, employee2);
 export {};
